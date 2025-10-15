@@ -1263,9 +1263,9 @@ a {
   }
 }
 .cid-uZGgSwL3BQ {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #000000;
 }
 .cid-uZGgSwL3BQ .mbr-fallback-image.disabled {
   display: none;
@@ -1278,4 +1278,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-uZGgSwL3BQ .mbr-section-title {
+  color: #ffffff;
 }
